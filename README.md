@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Made%20with-React-blue) ![](https://img.shields.io/badge/Made%20with-JavaScript-yellow) ![made-with-python](https://img.shields.io/badge/Made%20with-HTML-orange) ![](https://img.shields.io/badge/Made%20with-Bootstrap-purple)
 
-Search Pokemon is a web application for search pokemons. Was built using React with Create React App.
+Search Pokemon is a web application for search pokemons. Was built using React with Create React App. To see web visit [Search Pokemon Netlify](https://modest-raman-84d634.netlify.app/).
 
 ![](https://imgur.com/B89weQk.png)
 
